@@ -1,4 +1,4 @@
-## Hi there 👋
+Helllo, I'm Kwon, an IT Professional
 
 <!--
 **Mrhosendove/Mrhosendove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
