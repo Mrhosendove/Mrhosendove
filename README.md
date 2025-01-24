@@ -5,7 +5,11 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mrhosendove/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Mrhosendove/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Mrhosendove/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Demonstration](https://github.com/Mrhosendove/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mrhosendove/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mrhosendove/azure-network-protocols)
+- <b>VPN Setup</b>
+  - [Virtual Private Network Demonstration](https://github.com/Mrhosendove/Vpnsetup-protocols)
+- <b>AN Intution For DNS</b>
+  - [Domain Name Server Demo](https://github.com//Mrhosendove/Dnsdemo)
