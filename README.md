@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Tutorial](https://github.com/Mrhosendove/ticket-lifecycle)
+- <b>OsTicket (Help Desk Ticketing System)</b>
+  - [OsTicket: Ticket Lifecycle Tutorial](https://github.com/Mrhosendove/ticket-lifecycle)
 - <b>Managing AD In Azure</b>
   - [Overview Of Active Directory](https://github.com/Mrhosendove/admanagement)
 - <b>VPN Setup</b>
