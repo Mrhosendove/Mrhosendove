@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Demonstration](https://github.com/Mrhosendove/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Tutorial](https://github.com/Mrhosendove/ticket-lifecycle)
 - <b>Managing AD In Azure</b>
   - [Overview Of Active Directory](https://github.com/Mrhosendove/admanagement)
 - <b>VPN Setup</b>
   - [Virtual Private Network Demonstration](https://github.com/Mrhosendove/Vpnsetup-protocols)
-- <b>AN Intution For DNS</b>
+- <b>AN Intuition For DNS</b>
   - [Domain Name Server Demo](https://github.com//Mrhosendove/Dnsdemo)
  
-<h2> Certificates/Liscenses </h2>
+<h2> Certificates/Licenses </h2>
