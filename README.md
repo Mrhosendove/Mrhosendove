@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mrhosendove/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Mrhosendove/post-install-config)
   - [osTicket: Ticket Lifecycle Demonstration](https://github.com/Mrhosendove/ticket-lifecycle)
 - <b>Managing AD In Azure</b>
   - [Overview Of Active Directory](https://github.com/Mrhosendove/admanagement)
