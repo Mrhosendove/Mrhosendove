@@ -7,7 +7,7 @@
 - <b>Managing AD In Azure</b>
   - [Overview Of Active Directory](https://github.com/Mrhosendove/admanagement)
 - <b>VPN Setup</b>
-  - [Virtual Private Network Demonstration](https://github.com/Mrhosendove/Vpnsetup-protocols)
+  - [Virtual Private Network Tutorial](https://github.com/Mrhosendove/Vpnsetup-protocols)
 - <b>AN Intuition For DNS</b>
   - [Domain Name Server Demo](https://github.com//Mrhosendove/Dnsdemo)
  
