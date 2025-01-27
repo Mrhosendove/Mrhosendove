@@ -1,7 +1,7 @@
 <h1>Welcome! I'm Kwon, an <a href="https://linkedin.com/in/raekwon-brant95">IT Professional</a></h1>
 
-Thank You for chiming in, here is where you will find all of my recent projects that I've worked on. Please take a moment and view the work that I've put together for you.
-All feedback and comments are welcome, I hope you enjoy!
+Thank You for chiming in. Here is where you will find all of my recent projects. Please take a moment to view the work that I've put together for you.
+All feedback and comments are welcome, I hope you enjoy it!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
