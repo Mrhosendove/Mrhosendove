@@ -11,4 +11,4 @@
 - <b>AN Intuition For DNS</b>
   - [Domain Name Server Demo](https://github.com//Mrhosendove/Dnsdemo)
  
-<h2> Certificates/Licenses </h2>
+<h2> Certificates/Licenses:</h2>
