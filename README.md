@@ -12,6 +12,6 @@ All feedback and comments are welcome, I hope you enjoy!
 - <b>VPN Setup</b>
   - [Virtual Private Network Tutorial](https://github.com/Mrhosendove/Vpnsetup-protocols)
 - <b>AN Intuition For DNS</b>
-  - [Domain Name Server Experiment](https://github.com//Mrhosendove/domain)
+  - [Domain Name Server Experiment](https://github.com//Mrhosendove/dnsdemo)
  
 <h2> Certificates/Licenses:</h2>
