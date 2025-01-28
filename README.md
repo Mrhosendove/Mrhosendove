@@ -15,6 +15,10 @@ The IT industry is constantly evolving, offering endless opportunities to learn 
 
 The world of technology is vast, and the opportunities are limitless. If you have a passion for problem-solving and innovation, IT is a field that will reward you in ways you never imagined. Choosing IT as my profession was one of the best decisions I ever made. It's a field that challenges me, excites me, and offers endless opportunities. For anyone considering IT, I'd say: "Embrace the learning process, stay focused, don't give up, and never stop exploring!"
 
+## Skills & Technologies
+
+**Tools:** Mircosoft Azure
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>OsTicket (Help Desk Ticketing System)</b>
